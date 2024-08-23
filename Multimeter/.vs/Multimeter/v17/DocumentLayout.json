@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adeptichhhe\\Multimeter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D214CFC8-5306-A021-20E0-5E30AC7C1A53}|Assembly-CSharp.csproj|C:\\Users\\Adeptichhhe\\Multimeter\\assets\\scripts\\multimetermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D214CFC8-5306-A021-20E0-5E30AC7C1A53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multimetermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D214CFC8-5306-A021-20E0-5E30AC7C1A53}|Assembly-CSharp.csproj|C:\\Users\\Adeptichhhe\\Multimeter\\assets\\scripts\\multimetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D214CFC8-5306-A021-20E0-5E30AC7C1A53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multimetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D214CFC8-5306-A021-20E0-5E30AC7C1A53}|Assembly-CSharp.csproj|c:\\users\\adeptichhhe\\multimeter\\assets\\scripts\\multimeterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D214CFC8-5306-A021-20E0-5E30AC7C1A53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multimeterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultimeterView.cs",
+              "DocumentMoniker": "C:\\Users\\Adeptichhhe\\Multimeter\\Assets\\Scripts\\MultimeterView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MultimeterView.cs",
+              "ToolTip": "C:\\Users\\Adeptichhhe\\Multimeter\\Assets\\Scripts\\MultimeterView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MultimeterView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:29:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultimeterController.cs",
+              "DocumentMoniker": "C:\\Users\\Adeptichhhe\\Multimeter\\Assets\\Scripts\\MultimeterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MultimeterController.cs",
+              "ToolTip": "C:\\Users\\Adeptichhhe\\Multimeter\\Assets\\Scripts\\MultimeterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MultimeterController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:29:01.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultimeterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Adeptichhhe\\Multimeter\\Assets\\Scripts\\MultimeterModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MultimeterModel.cs",
+              "ToolTip": "C:\\Users\\Adeptichhhe\\Multimeter\\Assets\\Scripts\\MultimeterModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MultimeterModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA3wFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:26:42.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
